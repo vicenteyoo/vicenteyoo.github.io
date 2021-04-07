@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Jiwon Yoo"
   avatar           : "/assets/images/profileImage_JiwonYoo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD. Candidate in EEPEL\nSeoul National University, Korea\nSupervisory Professor: Seung-Ki Sul\nResearch Interests: Motor drives and Power electronics"
+  bio              : "PhD. Candidate in EEPEL<br>Seoul National University, Korea<br>Supervisory Professor: Seung-Ki Sul<br>Research Interests:<br>Motor drives<br>Power electronics"
   location         : "Seoul, Korea"
   email            : "vicenteyoo[no spam] at gmail.com"
   links:
