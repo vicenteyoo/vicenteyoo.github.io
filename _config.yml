@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jiwon Yoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD. Candidate in EEPEL in Seoul National University, Korea.\nSupervisory Professor: Seung-Ki Sul"
+  location         : "Seoul, Korea"
+  email            : "vicenteyoo[no spam] at gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
