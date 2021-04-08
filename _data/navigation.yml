@@ -7,7 +7,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /posts/
+    url: /tags/
   - title: "Research"
     url: /papers/
   # - title: "Sitemap"
