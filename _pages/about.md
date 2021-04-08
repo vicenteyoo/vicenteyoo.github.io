@@ -56,9 +56,9 @@ Department of Inverter R&D, Seoho Electric, Korea
 - IPEMC(ECCE-Asia) 2020 in Nanjing, China(Virtual) **Best Paper Awards**  
 **J. Yoo** and S. Sul, "Analysis of Torque Control Stability of PMSM Sensorless Drives in Flux Weakening Region."  
 - ECCE 2020 in Detroit, USA(Virtual)  
-**J. Yoo** and S. Sul, "Dynamic Overmodulation for Improved Current Regulation of PMSM,"  
+**J. Yoo** and S. Sul, "Dynamic Overmodulation for Improved Current Regulation of PMSM."  
 J. Lee, **J. Yoo** and S. Sul, "Stator Resistance Estimation using DC Injection Robust to Inverter Nonlinearity in Induction Motors."  
-- ITEC 2020 in Chicago, USA(Virtual)
+- ITEC 2020 in Chicago, USA(Virtual)  
 J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improved Dynamic Performance of IPMSM."  
 #### 2019  
 - ECCE 2019 in Baltimore, USA  
