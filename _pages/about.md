@@ -2,6 +2,9 @@
 title: "About Jiwon Yoo"
 permalink: /about/
 layout: single
+header:
+  image: "/assets/images/headerImage_JiwonYoo.jpg"
+author_profile: true
 ---
 
 ## vicenteyoo.github.io 블로그
