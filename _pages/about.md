@@ -3,7 +3,7 @@ title: "About Jiwon Yoo"
 permalink: /about/
 layout: single
 header:
-  image: "/assets/images/headerImage_JiwonYoo.jpg"
+  image: "/assets/images/headerImage_Mountain.jpg"
 author_profile: true
 ---
 
