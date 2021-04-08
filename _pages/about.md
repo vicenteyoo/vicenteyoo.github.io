@@ -39,7 +39,8 @@ Department of Inverter R&D, Seoho Electric, Korea
 - Mar. 2020 ~ Present with FCA, USA.
 - Oct. 2019 ~ Dec. 2019 with Seoho Electric, Korea.
 - Jan. 2018 ~ Dec. 2018 with Yaskawa Electric, Japan.
-- Jul. 2017 ~ Nov. 2017 with FCA, USA.
+- Jul. 2017 ~ Nov. 2017 with FCA, USA.  
+
 ## Publication
 - **2021 IEEE Trans. Industrial Electronics (Early Access)**  
 **J. Yoo**, et al., "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*.  
