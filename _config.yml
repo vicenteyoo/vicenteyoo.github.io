@@ -69,9 +69,6 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-#header imageder
-header:
-  image: "/assets/images/headerImager_JiwonYoo.jpg"
 
 # Social Sharing
 twitter:
