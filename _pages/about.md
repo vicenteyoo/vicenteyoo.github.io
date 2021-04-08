@@ -59,16 +59,18 @@ Department of Inverter R&D, Seoho Electric, Korea
 **J. Yoo** and S. Sul, "Dynamic Overmodulation for Improved Current Regulation of PMSM."  
 J. Lee, **J. Yoo** and S. Sul, "Stator Resistance Estimation using DC Injection Robust to Inverter Nonlinearity in Induction Motors."  
 - ITEC 2020 in Chicago, USA(Virtual)  
-J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improved Dynamic Performance of IPMSM."  
+J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improved Dynamic Performance of IPMSM."
+  
 #### 2019  
 - ECCE 2019 in Baltimore, USA  
 **J. Yoo**, et al., " Torque Ripple Reduction in Stator Resistance Estimation using DC Current Injection for Induction Motor Sensorless Drives."  
 - ICPE(ECCE-Asia) 2019 in Busan, Korea **Best Paper Awards-1st Prize**  
-**J. Yoo**, et al., "Design of Full-Order Flux Observer for Induction Motor Drive Robust to Rotor Time Constant Variation."  
+**J. Yoo**, et al., "Design of Full-Order Flux Observer for Induction Motor Drive Robust to Rotor Time Constant Variation."
+  
 #### 2018  
 - ECCE 2018 in Portland, USA  
 **J. Yoo**, et al., "Back-EMF Based Sensorless Control of IPMSM with Enhanced Torque Accuracy against Parameter Variation."  
-
+  
 ## Awards and Honors
 - 2020 Best Paper Award in IPEMC(ECCE-Asia) 2020, Nanjing
 - 2019 Best Paper Awards First Prize in ICPE(ECCE-Asia) 2019, Busan
