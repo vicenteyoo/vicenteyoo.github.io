@@ -29,6 +29,8 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+header:
+  image: "/assets/images/headerImage_JiwonYoo.jpg"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -276,8 +278,6 @@ defaults:
       type: posts
     values:
       layout: single
-      header:
-        image: "/assets/images/headerImage_JiwonYoo.jpg"
       author_profile: true
       read_time: true
       comments: # true
