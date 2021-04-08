@@ -4,6 +4,7 @@ permalink: /about/
 layout: single
 header:
   image: "/assets/images/headerImage_Mountain.jpg"
+classes: wide
 author_profile: true
 ---
 
@@ -61,7 +62,7 @@ J. Lee, **J. Yoo** and S. Sul, "Stator Resistance Estimation using DC Injection 
 J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improved Dynamic Performance of IPMSM."
   
 #### 2019  
-- ECCE 2019, Baltimore 
+- ECCE 2019, Baltimore  
 **J. Yoo**, et al., " Torque Ripple Reduction in Stator Resistance Estimation using DC Current Injection for Induction Motor Sensorless Drives."  
 - ICPE(ECCE-Asia) 2019, Busan **Best Paper Awards-1st Prize**  
 **J. Yoo**, et al., "Design of Full-Order Flux Observer for Induction Motor Drive Robust to Rotor Time Constant Variation."
