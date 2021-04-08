@@ -276,6 +276,8 @@ defaults:
       type: posts
     values:
       layout: single
+      header:
+        image: "/assets/images/headerImage_JiwonYoo.jpg"
       author_profile: true
       read_time: true
       comments: # true
