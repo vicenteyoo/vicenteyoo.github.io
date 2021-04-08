@@ -29,7 +29,7 @@ Combined M.S/Ph.D Student(Advisor: Prof. Seung-Ki Sul)
 at Seoul National University, Korea  
 - Mar. 2009 ~ Feb. 2017  
 Bachelor of Electrical and Computer Engineering  
-at Seul National University, Korea  
+at Seoul National University, Korea  
   
 ## Work Experience
 - 2013 ~ 2017  
