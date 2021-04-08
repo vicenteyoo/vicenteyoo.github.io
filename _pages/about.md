@@ -1,5 +1,5 @@
 ---
-title: "About Jiwon Yoo"
+title: "Jiwon Yoo"
 permalink: /about/
 layout: single
 header:
@@ -7,7 +7,6 @@ header:
 author_profile: true
 ---
 
-# Jiwon Yoo
 Hello, welcome to my page.  
 This page is for archiving my research history.  
 
