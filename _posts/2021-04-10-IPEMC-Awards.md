@@ -1,7 +1,8 @@
 ---
 title:  "IPEMC(ECCE-Asia) 2020 Best Paper Award"
 excerpt: "Analysis of Torque Control Stability of PMSM Sensorless Drives in Flux Weakening Region."
-
+header:
+  teaser: "/assets/images/post-2021-04-10-2.PNG"
 categories:
   - Awards
 tags:
