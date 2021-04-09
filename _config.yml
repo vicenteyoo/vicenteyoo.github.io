@@ -29,8 +29,6 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-header:
-  image: "/assets/images/headerImage_Mountain.jpg"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -108,7 +106,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Lab Website"
       icon: "fas fa-fw fa-link"
-      url: "eepel.snu.ac.kr"
+      url: "https://eepel.snu.ac.kr"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=oE7sqNoAAAAJ&hl=ko&oi=ao"
