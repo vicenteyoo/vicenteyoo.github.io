@@ -15,6 +15,6 @@ last_modified_at: 2021-04-10T00:24+09:00
 [Link](https://ieeexplore.ieee.org/document/9367660)
   
 
-<img width="800" src="vicenteyoo.github.io/assets/images/post-2021-04-10-2.PNG" alt="Best Paper Award" title="Best Paper Award">
+<img width="800" src="/assets/images/post-2021-04-10-2.PNG" alt="Best Paper Award" title="Best Paper Award">
 
 **This paper won the Best Paper Award in the conference.**
