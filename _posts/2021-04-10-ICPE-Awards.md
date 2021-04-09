@@ -1,7 +1,8 @@
 ---
 title:  "ICPE(ECCE-Asia) 2019 Best Paper Award"
 excerpt: "Design of Full-Order Flux Observer for Induction Motor Drive Robust to Rotor Time Constant Variation."
-
+header:
+  teaser: "/assets/images/post-2021-04-10-1.PNG"
 categories:
   - Awards
 tags:
