@@ -106,7 +106,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Lab Website"
       icon: "fas fa-fw fa-link"
-      url: "https://eepel.snu.ac.kr"
+      url: "https://eepel.snu.ac.kr/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=oE7sqNoAAAAJ&hl=ko&oi=ao"
