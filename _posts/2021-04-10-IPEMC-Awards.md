@@ -6,7 +6,6 @@ header:
 categories:
   - Awards
 tags:
-  - Conference
   - Awards
   - 1st Author
   - Year2020
