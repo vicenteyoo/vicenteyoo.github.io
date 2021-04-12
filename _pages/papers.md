@@ -8,6 +8,6 @@ header:
 classes: wide
 author_profile: true
 taxonomy: research
-sort_by: name
+sort_by: title
 ---
 
