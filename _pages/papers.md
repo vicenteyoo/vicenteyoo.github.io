@@ -8,5 +8,6 @@ header:
 classes: wide
 author_profile: true
 taxonomy: research
+entries_layout: grid
 ---
 
