@@ -36,7 +36,7 @@ at Seoul National University, Korea
 Department of Inverter R&D, Seoho Electric, Korea
 
 ## Industrial Projects
-- Mar. 2020 ~ Present with FCA, USA.
+- Mar. 2020 ~ Present with Stellantis, USA.
 - Oct. 2019 ~ Dec. 2019 with Seoho Electric, Korea.
 - Jan. 2018 ~ Dec. 2018 with Yaskawa Electric, Japan.
 - Jul. 2017 ~ Nov. 2017 with FCA, USA.  
