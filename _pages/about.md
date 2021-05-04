@@ -73,7 +73,7 @@ J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improv
   
 ## Awards and Honors
 - 2020 Best Paper Award in IPEMC(ECCE-Asia) 2020, Nanjing
-- 2019 Best Paper Awards First Prize in ICPE(ECCE-Asia) 2019, Busan
+- 2019 Best Paper Award First Prize in ICPE(ECCE-Asia) 2019, Busan
 
 ## Scholarships
 - 2019 ~ Present  
