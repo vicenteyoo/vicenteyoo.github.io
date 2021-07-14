@@ -11,7 +11,7 @@ author_profile: true
 Hello, welcome to my page.  
 This page is for archiving my research history.  
 
-Last Update: 2021-04-08  
+Last Update: 2021-07-14  
 
 ## Ph.D Candidate in Seoul National University  
 - Department of Electrical and Computer Engineering  
@@ -36,7 +36,7 @@ at Seoul National University, Korea
 Department of Inverter R&D, Seoho Electric, Korea
 
 ## Industrial Projects
-- Mar. 2020 ~ Present with Stellantis, USA.
+- Mar. 2020 ~ Jul. 2021 with Stellantis, USA.
 - Oct. 2019 ~ Dec. 2019 with Seoho Electric, Korea.
 - Jan. 2018 ~ Dec. 2018 with Yaskawa Electric, Japan.
 - Jul. 2017 ~ Nov. 2017 with FCA, USA.  
@@ -45,13 +45,20 @@ Department of Inverter R&D, Seoho Electric, Korea
 - **2021 IEEE Trans. Industrial Electronics (Early Access)**  
 **J. Yoo**, et al., "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*.  
   
-- **2021 IEEE Trans. Power Electronics (Early Access)**  
-**J. Yoo**, et al., "Analysis of Instability in Torque Control of Sensorless PMSM Drives in Flux Weakening Region", in *IEEE Transactions on Power Electronics*.  
-  
+- **Sep. 2021 IEEE Trans. Power Electronics**  
+**J. Yoo**, et al., "Analysis of Instability in Torque Control of Sensorless PMSM Drives in Flux Weakening Region", in *IEEE Transactions on Power Electronics*, 
+vol. 36, no. 9, pp. 10815-10826, Sept. 2021.
+   
 - **Jul. 2020 IEEE Trans. Industry Applications**  
-**J. Yoo**, et al., "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020
+**J. Yoo**, et al., "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.
   
 ## International Conferences
+#### 2021  
+- ITEC 2021, Chicago(Virtual)  
+**J. Yoo** and S. Sul, "Stability Analysis of PI-Controller-Type Position Estimator for Sensorless PMSM Drives in Flux Weakening Region."
+- ECCE-Asia 2021, Singapore(Virtual)  
+**J. Yoo** and S. Sul, "Effect of Speed Estimation Error on Control Stability in Model-Based Sensorless PMSM Drives."  
+  
 #### 2020  
 - IPEMC(ECCE-Asia) 2020, Nanjing(Virtual) **Best Paper Awards**  
 **J. Yoo** and S. Sul, "Analysis of Torque Control Stability of PMSM Sensorless Drives in Flux Weakening Region."  
