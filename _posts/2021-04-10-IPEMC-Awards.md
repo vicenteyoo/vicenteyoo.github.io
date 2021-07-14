@@ -7,7 +7,6 @@ categories:
   - Awards
 tags:
   - Awards
-  - 1st Author
   - Year2020
 last_modified_at: 2021-04-10T00:24+09:00
 ---
