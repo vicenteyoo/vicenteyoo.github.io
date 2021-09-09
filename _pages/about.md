@@ -15,7 +15,7 @@ Last Update: 2021-07-14
 
 ## Ph.D Candidate in Seoul National University  
 - Department of Electrical and Computer Engineering  
-- Advisor: Prof. Seung-Ki Sul (Fellow, IEEE)
+- Advisor: Prof. Seung-Ki Sul (Fellow, IEEE)  
 <img width="400" src="/assets/images/Logo_EEPEL.png" alt="EEPEL Logo" title="EEPEL Logo">  
 - Reserch Interests
   - Power Electronics
