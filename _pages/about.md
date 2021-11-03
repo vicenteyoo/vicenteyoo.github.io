@@ -53,9 +53,16 @@ vol. 36, no. 9, pp. 10815-10826, Sept. 2021.
    
 - **Jul. 2020 IEEE Trans. Industry Applications**  
 **J. Yoo**, et al., "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.
-  
+   
+- **2021 IEEE Trans. Power Electronics (Early Access)**  
+**J. Yoo**, et al., "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.
+H. Kim, **J. Yoo** and S. Sul, "Online MTPA Operation of IPMSM based on Dual-Loop Control in Polar Coordinates," in *IEEE Transactions on Power Electronics*.  
+   
 ## International Conferences
 #### 2021  
+- ECCE 2021, Vancouver(Virtual)  
+**J. Yoo**, et al., "Gain Scheduling of Full-Order Flux Observer for Sensorless PMSM Drives Considering Magnetic Spatial Harmonics."  
+Y. Lee, **J. Yoo**, and S. Sul, "Switching Frequency Signal-Injection Sensorless Control Robust to Non-Ideal Characteristics of Inverter System for Dual Three-Phase PMSM."    
 - ITEC 2021, Chicago(Virtual)  
 **J. Yoo** and S. Sul, "Stability Analysis of PI-Controller-Type Position Estimator for Sensorless PMSM Drives in Flux Weakening Region."
 - ECCE-Asia 2021, Singapore(Virtual)  
