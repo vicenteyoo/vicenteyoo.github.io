@@ -27,7 +27,7 @@ Last Update: 2021-07-14
 
 ## Education
 - Sep. 2017 ~ Present  
-Combined M.S/Ph.D Student(Advisor: Prof. Seung-Ki Sul)  
+Combined M.S/Ph.D Student (Advisor: Prof. Seung-Ki Sul)  
 at Seoul National University, Korea  
 - Mar. 2009 ~ Feb. 2017  
 Bachelor of Electrical and Computer Engineering  
