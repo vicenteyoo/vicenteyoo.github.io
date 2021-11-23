@@ -8,5 +8,7 @@ header:
 classes: wide
 author_profile: true
 taxonomy: research
+sort_by:title
+sort_order: forward
 ---
 
