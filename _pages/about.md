@@ -44,18 +44,23 @@ Department of Inverter R&D, Seoho Electric, Korea
 - Jul. 2017 ~ Nov. 2017 with FCA, USA.  
 
 ## Publication
-- **2021 IEEE Trans. Industrial Electronics (Early Access)**  
-**J. Yoo**, et al., "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*.  
+- **2022 IEEE Trans. Power Electronics (Early Access)**  
+**J. Yoo** and S. Sul, "Dynamic Overmodulation Scheme for Improved Current Regulation in PMSM Drives," in *IEEE Transactions on Power Electronics*.
+  
+- **Apr. 2022 IEEE Trans. Industrial Electronics**  
+**J. Yoo**, H. Kim, S. Sul, "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*, 
+vol. 69, no. 4, pp. 3334-3344, April 2022.  
   
 - **Sep. 2021 IEEE Trans. Power Electronics**  
-**J. Yoo**, et al., "Analysis of Instability in Torque Control of Sensorless PMSM Drives in Flux Weakening Region", in *IEEE Transactions on Power Electronics*, 
+**J. Yoo**, J. Lee, S. Sul, "Analysis of Instability in Torque Control of Sensorless PMSM Drives in Flux Weakening Region", in *IEEE Transactions on Power Electronics*, 
 vol. 36, no. 9, pp. 10815-10826, Sept. 2021.
    
 - **Jul. 2020 IEEE Trans. Industry Applications**  
-**J. Yoo**, et al., "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.
+**J. Yoo** *et al.*, "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.
    
-- **2021 IEEE Trans. Power Electronics (Early Access)**  
-H. Kim, **J. Yoo** and S. Sul, "Online MTPA Operation of IPMSM based on Dual-Loop Control in Polar Coordinates," in *IEEE Transactions on Power Electronics*.  
+- **Apr. 2022 IEEE Trans. Power Electronics**  
+H. Kim, **J. Yoo**, and S. Sul, "Online MTPA Operation of IPMSM based on Dual-Loop Control in Polar Coordinates," in *IEEE Transactions on Power Electronics*, 
+vol. 37, no. 4, pp. 4431-4441, April 2022.  
    
 ## International Conferences
 #### 2021  
