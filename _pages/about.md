@@ -65,7 +65,7 @@ vol. 37, no. 4, pp. 4431-4441, April 2022.
 ## International Conferences
 #### 2021  
 - ECCE 2021, Vancouver(Virtual)  
-**J. Yoo**, et al., "Gain Scheduling of Full-Order Flux Observer for Sensorless PMSM Drives Considering Magnetic Spatial Harmonics."  
+**J. Yoo** *et al.*, "Gain Scheduling of Full-Order Flux Observer for Sensorless PMSM Drives Considering Magnetic Spatial Harmonics."  
 Y. Lee, **J. Yoo**, and S. Sul, "Switching Frequency Signal-Injection Sensorless Control Robust to Non-Ideal Characteristics of Inverter System for Dual Three-Phase PMSM."    
 - ITEC 2021, Chicago(Virtual)  
 **J. Yoo** and S. Sul, "Stability Analysis of PI-Controller-Type Position Estimator for Sensorless PMSM Drives in Flux Weakening Region."
@@ -83,13 +83,13 @@ J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improv
   
 #### 2019  
 - ECCE 2019, Baltimore  
-**J. Yoo**, et al., " Torque Ripple Reduction in Stator Resistance Estimation using DC Current Injection for Induction Motor Sensorless Drives."  
+**J. Yoo** *et al.*, " Torque Ripple Reduction in Stator Resistance Estimation using DC Current Injection for Induction Motor Sensorless Drives."  
 - ICPE(ECCE-Asia) 2019, Busan **Best Paper Awards-1st Prize**  
-**J. Yoo**, et al., "Design of Full-Order Flux Observer for Induction Motor Drive Robust to Rotor Time Constant Variation."
+**J. Yoo** *et al.*, "Design of Full-Order Flux Observer for Induction Motor Drive Robust to Rotor Time Constant Variation."
   
 #### 2018  
 - ECCE 2018, Portland  
-**J. Yoo**, et al., "Back-EMF Based Sensorless Control of IPMSM with Enhanced Torque Accuracy against Parameter Variation."  
+**J. Yoo** *et al.*, "Back-EMF Based Sensorless Control of IPMSM with Enhanced Torque Accuracy against Parameter Variation."  
   
 ## Awards and Honors
 - 2020 Best Paper Award in IPEMC(ECCE-Asia) 2020, Nanjing
