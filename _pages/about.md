@@ -48,11 +48,11 @@ Department of Inverter R&D, Seoho Electric, Korea
 **J. Yoo** and S. Sul, "Dynamic Overmodulation Scheme for Improved Current Regulation in PMSM Drives," in *IEEE Transactions on Power Electronics*.
   
 - **Apr. 2022 IEEE Trans. Industrial Electronics**  
-**J. Yoo**, H. Kim, S. Sul, "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*, 
+**J. Yoo**, H. Kim, and S. Sul, "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*, 
 vol. 69, no. 4, pp. 3334-3344, April 2022.  
   
 - **Sep. 2021 IEEE Trans. Power Electronics**  
-**J. Yoo**, J. Lee, S. Sul, "Analysis of Instability in Torque Control of Sensorless PMSM Drives in Flux Weakening Region", in *IEEE Transactions on Power Electronics*, 
+**J. Yoo**, J. Lee, and S. Sul, "Analysis of Instability in Torque Control of Sensorless PMSM Drives in Flux Weakening Region", in *IEEE Transactions on Power Electronics*, 
 vol. 36, no. 9, pp. 10815-10826, Sept. 2021.
    
 - **Jul. 2020 IEEE Trans. Industry Applications**  
