@@ -44,8 +44,9 @@ Department of Inverter R&D, Seoho Electric, Korea
 - Jul. 2017 ~ Nov. 2017 with FCA, USA.  
 
 ## Publication
-- **2022 IEEE Trans. Power Electronics (Early Access)**  
-**J. Yoo** and S. Sul, "Dynamic Overmodulation Scheme for Improved Current Regulation in PMSM Drives," in *IEEE Transactions on Power Electronics*.
+- **Jun. 2022 IEEE Trans. Power Electronics**  
+**J. Yoo** and S. Sul, "Dynamic Overmodulation Scheme for Improved Current Regulation in PMSM Drives," in *IEEE Transactions on Power Electronics*, 
+vol. 37, no. 6, pp. 7132-7144, June 2022.  
   
 - **Apr. 2022 IEEE Trans. Industrial Electronics**  
 **J. Yoo**, H. Kim, and S. Sul, "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*, 
