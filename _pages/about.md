@@ -11,7 +11,7 @@ author_profile: true
 Hello, welcome to my page.  
 This page is for archiving my research history.  
 
-Last Update: 2022-01-04  
+Last Update: 2022-05-19  
 
 ## Ph.D Candidate in Seoul National University  
 - Department of Electrical and Computer Engineering  
@@ -44,6 +44,10 @@ Department of Inverter R&D, Seoho Electric, Korea
 - Jul. 2017 ~ Nov. 2017 with FCA, USA.  
 
 ## Publication
+- **Early Access 2022 IEEE Trans. Power Electronics**  
+**J. Yoo**, H. Kim, and S. Sul, "MTPA Tracking Control of Sensorless IPMSM Based on Square-Wave Voltage Signal Injection," in *IEEE Transactions on Power Electronics*, 
+to be published.  
+  
 - **Jun. 2022 IEEE Trans. Power Electronics**  
 **J. Yoo** and S. Sul, "Dynamic Overmodulation Scheme for Improved Current Regulation in PMSM Drives," in *IEEE Transactions on Power Electronics*, 
 vol. 37, no. 6, pp. 7132-7144, June 2022.  
@@ -64,6 +68,10 @@ H. Kim, **J. Yoo**, and S. Sul, "Online MTPA Operation of IPMSM based on Dual-Lo
 vol. 37, no. 4, pp. 4431-4441, April 2022.  
    
 ## International Conferences
+#### 2022  
+- IPEC(ECCE-Asia) 2022, Himeji(Hybrid)  
+**J. Yoo** *et al.*, "FEA-Assisted Experimental Parameter Identification of Induction Motor."  
+  
 #### 2021  
 - ECCE 2021, Vancouver(Virtual)  
 **J. Yoo** *et al.*, "Gain Scheduling of Full-Order Flux Observer for Sensorless PMSM Drives Considering Magnetic Spatial Harmonics."  
@@ -98,6 +106,8 @@ J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improv
 
 ## Scholarships
 - 2019 ~ Present  
-Scholarship in Hyundai Motors Chung Mong-Koo Foundation, Korea(정몽구재단 미래산업인재장학생)  
+Scholarship in Hyundai Motors Chung Mong-Koo Foundation, Korea  
+(정몽구재단 미래산업인재장학생)  
 - 2009 ~ 2017  
-Presidential Science Scholarship, Korea(대통령 과학 장학생)  
+Presidential Science Scholarship, Korea  
+(대통령 과학 장학생)  
