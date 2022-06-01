@@ -45,8 +45,7 @@ Department of Inverter R&D, Seoho Electric, Korea
 
 ## Publication
 - **Early Access 2022 IEEE Trans. Power Electronics**  
-**J. Yoo**, H. Kim, and S. Sul, "MTPA Tracking Control of Sensorless IPMSM Based on Square-Wave Voltage Signal Injection," in *IEEE Transactions on Power Electronics*, 
-to be published.  
+**J. Yoo**, H. Kim, and S. Sul, "MTPA Tracking Control of Sensorless IPMSM Based on Square-Wave Voltage Signal Injection," in *IEEE Transactions on Power Electronics*.  
   
 - **Jun. 2022 IEEE Trans. Power Electronics**  
 **J. Yoo** and S. Sul, "Dynamic Overmodulation Scheme for Improved Current Regulation in PMSM Drives," in *IEEE Transactions on Power Electronics*, 
