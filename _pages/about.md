@@ -13,7 +13,7 @@ This page is for archiving my research history.
 
 Last Update: 2022-07-27  
 
-## Ph.D Candidate in Seoul National University  
+## PhD. Candidate in Seoul National University  
 - Department of Electrical and Computer Engineering  
 - Advisor: Prof. Seung-Ki Sul (Fellow, IEEE)  
   
