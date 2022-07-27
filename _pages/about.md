@@ -29,8 +29,8 @@ Last Update: 2022-05-19
 - Sep. 2017 ~ Aug. 2022  
 PhD. in Electrical and Computer Engineering  
 at Seoul National University, Korea  
-Dissertation: MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection  
-(Distinguished Dissertation Award)  
+Dissertation: **MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection**  
+(*Distinguished Dissertation Award*)  
 Advisor: Prof. Seung-Ki Sul(Fellow, IEEE)  
 - Mar. 2009 ~ Feb. 2017  
 Bachelor of Electrical and Computer Engineering  
