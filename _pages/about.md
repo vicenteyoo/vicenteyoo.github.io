@@ -27,7 +27,7 @@ Last Update: 2022-07-27
 
 ## Education
 - Sep. 2017 ~ Aug. 2022  
-PhD. in Electrical and Computer Engineering  
+**PhD. in Electrical and Computer Engineering**  
 at Seoul National University, Korea  
 Dissertation: **MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection**  
 (*Distinguished Dissertation Award*)  
