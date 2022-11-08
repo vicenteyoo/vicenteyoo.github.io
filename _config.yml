@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Jiwon Yoo"
   avatar           : "/assets/images/profileImage_JiwonYoo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Research Engineer<br>Hyundai Motors<br>Ph.D. in EE<br><br>Power electronics<br>Motor drives"
+  bio              : "Senior Research Engineer<br>Hyundai Motors<br><br>Ph.D.<br>Power electronics<br>Motor drives"
   location         : "Pangyo, Korea"
   email            : "vicenteyoo[no spam] at gmail.com"
   links:
