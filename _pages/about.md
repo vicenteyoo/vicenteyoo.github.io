@@ -110,7 +110,7 @@ J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improv
 **J. Yoo** *et al.*, "Back-EMF Based Sensorless Control of IPMSM with Enhanced Torque Accuracy against Parameter Variation."  
   
 ## Awards and Honors
-- 2022 Distinguished Dissertation Award, Seoul National Universtiy
+- 2022 Distinguished Dissertation Award, Seoul National University
 - 2020 Best Paper Award in IPEMC(ECCE-Asia) 2020, Nanjing
 - 2019 Best Paper Award First Prize in ICPE(ECCE-Asia) 2019, Busan
 
