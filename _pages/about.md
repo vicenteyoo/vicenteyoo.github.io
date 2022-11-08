@@ -18,12 +18,12 @@ Last Update: 2022-11-08
 - Development of Motor Drive Inverter for Future Mobility  
   
 
-- Research Interests
-  - Power Electronics
-  - Control of Electrical Machines
-    - PMSM Drives
-    - Induction Motor Drives
-    - Sensorless Drives
+## Research Interests
+- Power Electronics
+- Control of Electrical Machines
+  - PMSM Drives
+  - Induction Motor Drives
+  - Sensorless Drives
 
 ## Education
 - Sep. 2017 ~ Aug. 2022  
@@ -38,6 +38,8 @@ Bachelor of Electrical and Computer Engineering
 at Seoul National University, Korea  
   
 ## Work Experience
+- 2022 ~ Present  
+Institute of Advanced Technology Development (IATD), Hyundai Motor Group, Korea
 - 2013 ~ 2017  
 Department of Inverter R&D, Seoho Electric, Korea
 
