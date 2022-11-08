@@ -17,7 +17,7 @@ Last Update: 2022-11-08
 - Institute of Advanced Technology Development (IATD)
 - Development of Motor Drive Inverter for Future Mobility  
   
-//<img width="400" src="/assets/images/Logo_EEPEL.png" alt="EEPEL Logo" title="EEPEL Logo">  
+
 - Research Interests
   - Power Electronics
   - Control of Electrical Machines
@@ -29,6 +29,7 @@ Last Update: 2022-11-08
 - Sep. 2017 ~ Aug. 2022  
 **PhD. in Electrical and Computer Engineering**  
 at Seoul National University, Korea  
+<img width="400" src="/assets/images/Logo_EEPEL.png" alt="EEPEL Logo" title="EEPEL Logo">  
 Dissertation: **MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection**  
 (*Distinguished Dissertation Award*)  
 Advisor: Prof. Seung-Ki Sul(Fellow, IEEE)  
