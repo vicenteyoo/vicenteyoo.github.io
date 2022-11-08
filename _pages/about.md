@@ -11,14 +11,14 @@ author_profile: true
 Hello, welcome to my page.  
 This page is for archiving my research history.  
 
-Last Update: 2022-07-27  
+Last Update: 2022-11-08  
 
-## PhD. Candidate in Seoul National University  
-- Department of Electrical and Computer Engineering  
-- Advisor: Prof. Seung-Ki Sul (Fellow, IEEE)  
+## Senior Research Engineer in Hyundai Motor Group 
+- Institute of Advanced Technology Development (IATD)
+- Development of Motor Drive Inverter for Future Mobility  
   
-<img width="400" src="/assets/images/Logo_EEPEL.png" alt="EEPEL Logo" title="EEPEL Logo">  
-- Reserch Interests
+//<img width="400" src="/assets/images/Logo_EEPEL.png" alt="EEPEL Logo" title="EEPEL Logo">  
+- Research Interests
   - Power Electronics
   - Control of Electrical Machines
     - PMSM Drives
@@ -104,11 +104,12 @@ J. Yun, **J. Yoo**, H. Jung and S. Sul, "Simple Overmodulation Scheme for Improv
 **J. Yoo** *et al.*, "Back-EMF Based Sensorless Control of IPMSM with Enhanced Torque Accuracy against Parameter Variation."  
   
 ## Awards and Honors
+- 2022 Distinguished Dissertation Award, Seoul National Universtiy
 - 2020 Best Paper Award in IPEMC(ECCE-Asia) 2020, Nanjing
 - 2019 Best Paper Award First Prize in ICPE(ECCE-Asia) 2019, Busan
 
 ## Scholarships
-- 2019 ~ Present  
+- 2019 ~ 2022  
 Scholarship in Hyundai Motors Chung Mong-Koo Foundation, Korea  
 (정몽구재단 미래산업인재장학생)  
 - 2009 ~ 2017  
