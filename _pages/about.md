@@ -30,7 +30,7 @@ Last Update: 2022-11-08
 **PhD. in Electrical and Computer Engineering**  
 at Seoul National University, Korea  
 <img width="400" src="/assets/images/Logo_EEPEL.png" alt="EEPEL Logo" title="EEPEL Logo">  
-Dissertation: **MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection**  
+Dissertation: **MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection** 
 (*Distinguished Dissertation Award*)  
 Advisor: Prof. Seung-Ki Sul(Fellow, IEEE)  
 - Mar. 2009 ~ Feb. 2017  
