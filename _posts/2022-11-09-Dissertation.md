@@ -15,7 +15,7 @@ last_modified_at: 2022-11-09T11:03+09:00
 유지원, "맥동 전압 주입을 이용한 위치 센서 없는 매입형 영구자석 동기전동기의 MTPA 추종제어," 박사학위논문, 서울대학교, 2022.  
 J. Yoo, "MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection," Ph.D. Dissertation, 2022.  
 (This dissertation won the distinguished dissertation award in Seoul National University.)  
-[Link](https://dcollection.snu.ac.kr/public_resource/pdf/000000172330_20221109212704.pdf)  
+[Link](https://dcollection.snu.ac.kr/common/orgView/000000172330)  
 
 
 >As the torque density of the interior permanent-magnet synchronous
