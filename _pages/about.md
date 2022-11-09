@@ -14,6 +14,7 @@ This page is for archiving my research history.
 Last Update: 2022-11-08  
 
 ## Senior Research Engineer in Hyundai Motor Group 
+<img width="400" src="/assets/images/Logo_HMG.png" alt="HMG Logo" title="HMG Logo">  
 - Institute of Advanced Technology Development (IATD)
 - Development of Motor Drive Inverter for Future Mobility  
   
