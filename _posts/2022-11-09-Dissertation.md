@@ -8,6 +8,7 @@ tags:
   - Dissertation
   - 1st Author
   - Year2022
+  - Awards
 last_modified_at: 2022-11-09T11:03+09:00
 ---
 
@@ -23,18 +24,21 @@ developed. Below the base speed, maximum torque per Ampere(MTPA) operation
 is required for the high efficiency and the maximum torque capability of IPMSM.
 Therefore, an online MTPA tracking operation considering the magnetic saturation
 is required.  
+>
 >This dissertation presents an online MTPA tracking algorithm based on the flux
 model of IPMSM, which can be applied to the sensorless condition. The proposed
 algorithm consists of two sub-algorithms; one is for the mid-and high-speed region
 where the stator flux can be observed from the stator voltage, and the other is for the
 low-speed region.  
-Prior to the algorithm for the mid-and high-speeds, an MTPA criterion is
+>
+>Prior to the algorithm for the mid-and high-speeds, an MTPA criterion is
 formulated at an arbitrary reference frame. Furthermore, the estimated MTPA
 reference frame(EMRF) is proposed, and the MTPA criterion on that frame is derived.
 On the EMRF, the MTPA condition can be assessed without the rotor position
 information. Moreover, the proposed MTPA criterion at the EMRF requires only one
 inductance information, while the conventional criterion at the rotor reference frame
 is formulated with four inductance information.  
+>
 >Based on the simplified MTPA criterion, an MTPA tracking algorithm for mid-and
 high-speeds is proposed. The proposed method comprises a flux estimator based on
 the stator voltage observation, a dynamic inductance estimator based on the pulsating
