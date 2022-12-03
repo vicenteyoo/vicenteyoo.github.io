@@ -79,6 +79,9 @@ vol. 37, no. 4, pp. 4431-4441, April 2022.
    
 ## International Conferences
 #### 2022  
+- ECCE 2022, Detroit  
+**J. Yoo**, Y. -R. Lee, H. Kim and S. -K. Sul, "Shielding Technique for Noise Reduction in Hall-Effect Current Sensor of Voltage Source Inverter."  
+J. Yun, **J. Yoo**, S. Cui and S. -K. Sul, "Fast Gradient Method Based on Dynamic Programming in Model Predictive Control for PMSM Drives."  
 - IPEC(ECCE-Asia) 2022, Himeji(Hybrid)  
 **J. Yoo** *et al.*, "FEA-Assisted Experimental Parameter Identification of Induction Motor."  
   
