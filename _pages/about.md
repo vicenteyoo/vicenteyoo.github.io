@@ -70,6 +70,9 @@ vol. 36, no. 9, pp. 10815-10826, Sept. 2021.
 - **Jul. 2020 IEEE Trans. Industry Applications**  
 **J. Yoo** *et al.*, "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.
    
+- **Early Access 2023 IEEE Trans. Power Electronics**  
+J. Yun, **J. Yoo**, S. Cui and S. -K. Sul, "Model Predictive Control for Six-Step Operation of PMSM Based on Adapted Fast Gradient Method," in *IEEE Transactions on Power Electronics*, doi: 10.1109/TPEL.2023.3240510.
+   
 - **Jan. 2023 IEEE Trans. Power Electronics**  
 Y. -R. Lee, **J. Yoo**, I. Hwang and S. -K. Sul, "Analysis of Position Estimation Error in Signal-Injection Sensorless Control Induced by Inverter dv/dt-Based Current Measurement Noise," in *IEEE Transactions on Power Electronics*, vol. 38, no. 1, pp. 839-851, Jan. 2023.
    
