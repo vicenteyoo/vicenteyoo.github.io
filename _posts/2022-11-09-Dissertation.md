@@ -1,5 +1,5 @@
 ---
-title:  "[Sep.2022] Ph.D. Dissertation"
+title:  "[Aug.2022] Ph.D. Dissertation"
 excerpt: "MTPA Tracking Control of Sensorless IPMSM Based on Pulsating Voltage Signal Injection."
 
 categories:
