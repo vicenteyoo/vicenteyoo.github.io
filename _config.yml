@@ -95,16 +95,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiwon Yoo"
+  name             : "Jiwon Yoo, Ph.D."
   avatar           : "/assets/images/profileImage_JiwonYoo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Research Engineer<br>Hyundai Motors<br><br>Ph.D.<br>Power electronics<br>Motor drives"
-  location         : "Pangyo, Korea"
-  email            : "vicenteyoo[no spam] at gmail.com"
+  bio              : "Assistant Professor<br>Inha University<br><br>Power electronics<br>Motor drives"
+  location         : "Incheon, Korea"
+  email            : "jwyoo[no spam] at inha.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Lab Website"
+    - label: "Lab Website(Under Construction)"
       icon: "fas fa-fw fa-link"
       url: "https://eepel.snu.ac.kr/"
     - label: "Google Scholar"
