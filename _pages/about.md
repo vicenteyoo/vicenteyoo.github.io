@@ -11,12 +11,14 @@ author_profile: true
 Hello, welcome to my page.  
 This page is for archiving my research history.  
 
-Last Update: 2022-12-03  
+Last Update: 2023-09-01  
 
-## Senior Research Engineer in Hyundai Motor Group 
-<img width="400" src="/assets/images/Logo_HMG.png" alt="HMG Logo" title="HMG Logo">  
-- Institute of Advanced Technology Development (IATD)
-- Development of Motor Drive Inverter for Future Mobility  
+## Assistant Professor in Inha University 
+<img width="300" src="/assets/images/Logo_InhaUniv.png" alt="Inha Logo" title="Inha Logo">  
+- Dept. of Smart Mobility Engineering  
+**Power Electronics and Motor Drive for Future Mobility**  
+Lab Website is under construction.  
+If you are interested in power electronics and electric vehicle, please feel free to contact me. (jwyoo@inha.ac.kr)  
   
 
 ## Research Interests
@@ -39,9 +41,11 @@ Bachelor of Electrical and Computer Engineering
 at Seoul National University, Korea  
   
 ## Work Experience
-- 2022 ~ Present  
+- 2022 ~ 2023
+Assistant Professor, Dept. of Smart Mobility Engineering, Inha University, Korea
+- 2022 ~ 2023
 Institute of Advanced Technology Development (IATD), Hyundai Motor Group, Korea
-- 2013 ~ 2017  
+- 2013 ~ 2017
 Department of Inverter R&D, Seoho Electric, Korea
 
 ## Industrial Projects
@@ -51,9 +55,15 @@ Department of Inverter R&D, Seoho Electric, Korea
 - Jul. 2017 ~ Nov. 2017 with FCA, USA.  
 
 ## Publications
+- **May 2023 IEEE Trans. Power Electronics**  
+J. Yun, **J. Yoo**, S. Cui and S. -K. Sul, "Model Predictive Control for Six-Step Operation of PMSM Based on Adapted Fast Gradient Method," in *IEEE Transactions on Power Electronics*, vol. 38, no. 5, pp. 5952-5962, May 2023.  
+
 - **Oct. 2022 IEEE Trans. Power Electronics**  
 **J. Yoo**, H. Kim, and S. Sul, "MTPA Tracking Control of Sensorless IPMSM Based on Square-Wave Voltage Signal Injection," in *IEEE Transactions on Power Electronics*, 
 vol. 37, no. 10, pp. 12525-12537, Oct. 2022.  
+
+- **Jan. 2023 IEEE Trans. Power Electronics**  
+Y. -R. Lee, **J. Yoo**, I. Hwang and S. -K. Sul, "Analysis of Position Estimation Error in Signal-Injection Sensorless Control Induced by Inverter dv/dt-Based Current Measurement Noise," in *IEEE Transactions on Power Electronics*, vol. 38, no. 1, pp. 839-851, Jan. 2023.  
   
 - **Jun. 2022 IEEE Trans. Power Electronics**  
 **J. Yoo** and S. Sul, "Dynamic Overmodulation Scheme for Improved Current Regulation in PMSM Drives," in *IEEE Transactions on Power Electronics*, 
@@ -61,24 +71,18 @@ vol. 37, no. 6, pp. 7132-7144, June 2022.
   
 - **Apr. 2022 IEEE Trans. Industrial Electronics**  
 **J. Yoo**, H. Kim, and S. Sul, "Design of Frequency-Adaptive Flux Observer in PMSM Drives Robust to Discretization Error", in *IEEE Transactions on Industrial Electronics*, 
-vol. 69, no. 4, pp. 3334-3344, April 2022.  
+vol. 69, no. 4, pp. 3334-3344, April 2022.
+  
+- **Apr. 2022 IEEE Trans. Power Electronics**  
+H. Kim, **J. Yoo**, and S. Sul, "Online MTPA Operation of IPMSM based on Dual-Loop Control in Polar Coordinates," in *IEEE Transactions on Power Electronics*, 
+vol. 37, no. 4, pp. 4431-4441, April 2022.  
   
 - **Sep. 2021 IEEE Trans. Power Electronics**  
 **J. Yoo**, J. Lee, and S. Sul, "Analysis of Instability in Torque Control of Sensorless PMSM Drives in Flux Weakening Region", in *IEEE Transactions on Power Electronics*, 
 vol. 36, no. 9, pp. 10815-10826, Sept. 2021.
    
 - **Jul. 2020 IEEE Trans. Industry Applications**  
-**J. Yoo** *et al.*, "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.
-   
-- **Early Access 2023 IEEE Trans. Power Electronics**  
-J. Yun, **J. Yoo**, S. Cui and S. -K. Sul, "Model Predictive Control for Six-Step Operation of PMSM Based on Adapted Fast Gradient Method," in *IEEE Transactions on Power Electronics*.
-   
-- **Jan. 2023 IEEE Trans. Power Electronics**  
-Y. -R. Lee, **J. Yoo**, I. Hwang and S. -K. Sul, "Analysis of Position Estimation Error in Signal-Injection Sensorless Control Induced by Inverter dv/dt-Based Current Measurement Noise," in *IEEE Transactions on Power Electronics*, vol. 38, no. 1, pp. 839-851, Jan. 2023.
-   
-- **Apr. 2022 IEEE Trans. Power Electronics**  
-H. Kim, **J. Yoo**, and S. Sul, "Online MTPA Operation of IPMSM based on Dual-Loop Control in Polar Coordinates," in *IEEE Transactions on Power Electronics*, 
-vol. 37, no. 4, pp. 4431-4441, April 2022.  
+**J. Yoo** *et al.*, "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.  
    
 ## International Conferences
 #### 2022  
