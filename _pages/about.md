@@ -13,10 +13,10 @@ This page is for archiving my research history.
 
 Last Update: 2023-09-01  
 
-## Assistant Professor in Inha University 
-<img width="300" src="/assets/images/Logo_InhaUniv.png" alt="Inha Logo" title="Inha Logo">  
-- Dept. of Smart Mobility Engineering  
-**Power Electronics and Motor Drive for Future Mobility**  
+## Assistant Professor in Inha University  
+<img width="400" src="/assets/images/Logo_InhaUniv.png" alt="Inha Logo" title="Inha Logo">  
+- **Dept. of Smart Mobility Engineering**  
+- Power Electronics and Motor Drive for Future Mobility  
 Lab Website is under construction.  
 If you are interested in power electronics and electric vehicle, please feel free to contact me. (jwyoo@inha.ac.kr)  
   
