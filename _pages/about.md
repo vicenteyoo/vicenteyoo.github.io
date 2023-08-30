@@ -17,8 +17,8 @@ Last Update: 2023-09-01
 <img width="400" src="/assets/images/Logo_InhaUniv.png" alt="Inha Logo" title="Inha Logo">  
 - **Dept. of Smart Mobility Engineering**  
 - Power Electronics and Motor Drive for Future Mobility  
-Lab Website is under construction.  
-If you are interested in power electronics and electric vehicle, please feel free to contact me. (jwyoo@inha.ac.kr)  
+- Lab Website is under construction.  
+If you are interested in power electronics and electric vehicle, please feel free to contact me. (jwyoo [no spam] at inha.ac.kr)  
   
 
 ## Research Interests
@@ -41,7 +41,7 @@ Bachelor of Electrical and Computer Engineering
 at Seoul National University, Korea  
   
 ## Work Experience
-- 2022 ~ 2023
+- 2023 ~ Present
 Assistant Professor, Dept. of Smart Mobility Engineering, Inha University, Korea
 - 2022 ~ 2023
 Institute of Advanced Technology Development (IATD), Hyundai Motor Group, Korea
@@ -85,6 +85,11 @@ vol. 36, no. 9, pp. 10815-10826, Sept. 2021.
 **J. Yoo** *et al.*, "Stator Resistance Estimation Using DC Injection with Reduced Torque Ripple in Induction Motor Sensorless Drives," in *IEEE Transactions on Industry Applications*, vol. 56, no. 4, pp. 3744-3754, July-Aug. 2020.  
    
 ## International Conferences
+#### 2023  
+- ICPE(ECCE-Asia) 2023, Jeju  
+H. Kim, **J. Yoo** and S. -K. Sul, "Harmonic Current Regulation of SMPMSM by Discrete-Time Current Controller Design."  
+
+  
 #### 2022  
 - ECCE 2022, Detroit  
 **J. Yoo**, Y. -R. Lee, H. Kim and S. -K. Sul, "Shielding Technique for Noise Reduction in Hall-Effect Current Sensor of Voltage Source Inverter."  
